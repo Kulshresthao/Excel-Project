@@ -1,5 +1,6 @@
 # Vrinda Store Excel-Project Goal: 
-In order to better understand their clients and increase sales in 2023, Vrinda Store wishes to provide an annual sales report for 2022.
+Vrinda Store wants to produce an annual sales report for 2022 and make a dashboard and comparison between these two years in order to better understand their customers and boost sales in 2023.their sales are higher.
+
 # Tools
 Microsoft excel
 DAX Function
