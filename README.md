@@ -4,7 +4,7 @@ Vrinda Store wants to produce an annual sales report for 2022 and make a dashboa
 # Tools
 Microsoft excel
 DAX Function
-# Business Insights For CLients: 
+# Business Insights For Clients: 
 Women are around 65% more likely than men to purchase.
 The top three states are UP, Karnataka, and Maharashtra.
 The adult age group (ages 39–49) can contribute up to 50%.
