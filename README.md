@@ -3,12 +3,12 @@ Vrinda Store wants to produce an annual sales report for 2022 and make a dashboa
 
 # Tools
 Microsoft excel
-DAX Function
-# Business Insights For Clients: 
-Women are around 65% more likely than men to purchase.
-The top three states are UP, Karnataka, and Maharashtra.
-The adult age group (ages 39–49) can contribute up to 50%.
-Flipkart and Amazon channels have the highest contributions.
+
+# Vrinda Stores' top advanced Excel analyst
+Successfully used Excel's skills for strategic decision-making to analyse and display the most important findings from Vrinda Stores' data. Highlighted Excel's crucial position in data analytics by converting raw data into workable tactics, such as customer segmentation and sales trends.
+In January 2022, Vrinda Stores' busiest month, nearly 2 million orders and Rs 3000 crore in sales were examined.
+As women accounted for 64% of the clientele in March 2022, it was determined that they make a substantial contribution to sales.
+The top-selling states for Vrinda Stores were determined to be Tamil Nadu, Telangana, and Uttar Pradesh. Kurtas, sarees, and sets were identified as the top-selling categories.
 
 # Final Thought: 
 Use OTT PLATFORMS like Amazon to target female clients in the 30- to 49-year-old age range who reside in Maharashtra, Karnataka, and Uttar Pradesh.
